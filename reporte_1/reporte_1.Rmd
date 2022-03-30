@@ -13,7 +13,7 @@ pacman::p_load(dplyr)
 
 A continuación, se presentan los resultados generales de cada uno de los elementos consultados en el reporte de progreso 1:
 
-![](D:/Users/kevin/Documents/Sociologia/Ayudantias/Ayudantia estadistica multivariada 2022/reporte_1.png)
+![](https://github.com/Kevin-carrasco/reportes-progreso/blob/main/reporte_1/reporte_1.png?raw=true)
 
 En total se respondieron 66 reportes de progreso (de un total de 97 estudiantes). Los resultados muestran en general un buen nivel de progreso, estando la mayoría de los problemas focalizados en la parte de guardar hoja de código y generar la base de datos preparada para el análisis. Esto también es consistente con la mayoría de los problemas identificados en sus comentarios y sugerencias al final del reporte de progreso.
 
